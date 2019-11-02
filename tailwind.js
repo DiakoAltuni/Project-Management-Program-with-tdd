@@ -43,6 +43,7 @@ let colors = {
     muted: 'var(--text-muted-color)',
     'muted-light': 'var(--text-muted-light-color)',
     'error': 'var(--text-error-color)'
+
 };
 
 module.exports = {
