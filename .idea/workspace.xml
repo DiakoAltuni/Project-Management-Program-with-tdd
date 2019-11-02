@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7bf72cb-223f-4060-b99e-40b849a99776" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/js/components/BirdboardForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/components/Dropdown.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/components/NewProjectModal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/components/dropdown.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/'1'])cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/'Changed'])" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity)" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProjectController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProjectController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Project.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Project.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/descripton)" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
@@ -125,7 +136,7 @@
       <workItem from="1572410092335" duration="29438000" />
       <workItem from="1572592607445" duration="7633000" />
       <workItem from="1572668960477" duration="7262000" />
-      <workItem from="1572679560306" duration="1435000" />
+      <workItem from="1572679560306" duration="2082000" />
     </task>
     <servers />
   </component>
